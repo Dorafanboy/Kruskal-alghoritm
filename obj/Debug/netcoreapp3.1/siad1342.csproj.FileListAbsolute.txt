@@ -1,0 +1,14 @@
+C:\Users\днс\source\repos\siad1342\siad1342\bin\Debug\netcoreapp3.1\siad1342.exe
+C:\Users\днс\source\repos\siad1342\siad1342\bin\Debug\netcoreapp3.1\siad1342.deps.json
+C:\Users\днс\source\repos\siad1342\siad1342\bin\Debug\netcoreapp3.1\siad1342.runtimeconfig.json
+C:\Users\днс\source\repos\siad1342\siad1342\bin\Debug\netcoreapp3.1\siad1342.runtimeconfig.dev.json
+C:\Users\днс\source\repos\siad1342\siad1342\bin\Debug\netcoreapp3.1\siad1342.dll
+C:\Users\днс\source\repos\siad1342\siad1342\bin\Debug\netcoreapp3.1\siad1342.pdb
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.csproj.AssemblyReference.cache
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.AssemblyInfoInputs.cache
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.AssemblyInfo.cs
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.csproj.CoreCompileInputs.cache
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.dll
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.pdb
+C:\Users\днс\source\repos\siad1342\siad1342\obj\Debug\netcoreapp3.1\siad1342.genruntimeconfig.cache

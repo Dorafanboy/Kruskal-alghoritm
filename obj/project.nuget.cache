@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aJWGyoY9Csv7F640dT1osVG/CFEeTth2RkAQOI4s9Kwq7rgOLOUweA2TFNoS9K4OqX25gMffC+xulcGMne5GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\днс\\source\\repos\\siad1342\\siad1342\\siad1342.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\днс\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\днс\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\днс\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
